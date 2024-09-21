@@ -13,6 +13,7 @@ body {
   min-height: 100vh;
   background-color: #f5f5f5;
   font-family: "Garamond", serif;
+  background-color: #349beb;
 }
 
 #boxed {
@@ -20,10 +21,11 @@ body {
   justify-content: center;
   align-items: center;
   padding: 20px;
+  background-color: #356bbd;
 }
 
 form {
-  background-color: white;
+  background-color: #ae34c7;
   font-family: "Garamond", serif;
   color: black;
   max-width: 600px;
